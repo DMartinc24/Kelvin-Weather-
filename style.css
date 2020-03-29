@@ -1,0 +1,30 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  background-image: url("istockphoto-849282700-170667a.jpg");
+}
+
+img {
+  height: 100px;
+}
+
+h1 {
+  font-size: 50px;
+  color: darkblue;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 40px;
+  color: lightcoral;
+}
+
+p {
+  font-size: 25px;
+  color: coral;
+}
+
+button {
+  background-color: mediumspringgreen;
+  font-size: 15px;
+}
